@@ -3,6 +3,7 @@
 
 <img src="https://img.shields.io/badge/adobephotoshop-<MESSAGE>-<COLOR>"/>
 <img src="https://img.shields.io/badge/adobephotoshop-<MESSAGE>-<COLOR>"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunwoo020&show_icons=true&theme=radical)
 <!--
 
 **Sunwoo020/Sunwoo020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
