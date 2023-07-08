@@ -1,8 +1,6 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=#7E4DD2"/>
 
-<img src="https://img.shields.io/badge/adobephotoshop-<MESSAGE>-<COLOR>"/>
-<img src="https://img.shields.io/badge/adobephotoshop-<MESSAGE>-<COLOR>"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunwoo020&theme=dark&show_icons=true)
 <!--
