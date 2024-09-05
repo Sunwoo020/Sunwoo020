@@ -1,20 +1,10 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=#7E4DD2"/>
+### 안녕하세요. 신입 프론트엔드 개발자 양선우입니다.
+주로 **TypeScript**와 **React**를 사용하여 프론트엔드 개발을 하고 있습니다.
 
+요즘 **SEO**에 관심이 있어서 **Next.js**를 공부중이고, 컴포넌트 기반의 **App Router**를 공부중입니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunwoo020&theme=dark&show_icons=true)
-<!--
+시간이 걸리더라도 온전히 이해할 때까지 탐구하는 성향입니다.
 
-**Sunwoo020/Sunwoo020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+지금은 Next.js를 기반으로 Solo Project를 진행하며,
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React.js를 기반으로 만든 팀프로젝트를 리팩토링하며 공부중입니다.
